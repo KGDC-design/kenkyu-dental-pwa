@@ -1,0 +1,13 @@
+{
+  "name": "Kenkyu Dental",
+  "short_name": "Dental",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00A9DC",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
